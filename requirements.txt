@@ -13,7 +13,8 @@ groq
 gtts
 pygame
 google-generativeai
-langchain==0.2.14
-langchain-core==0.2.26
+langchain>=0.2.32,<0.3.0
+langchain-core>=0.2.32,<0.3.0
 langchain-google-genai==1.0.5
+
 
