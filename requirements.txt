@@ -15,4 +15,5 @@ groq
 gtts
 pygame
 google-generativeai
+langchain-core
 
