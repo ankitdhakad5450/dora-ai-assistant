@@ -3,8 +3,6 @@ opencv-python
 python-dotenv
 speechrecognition
 pydub
-langchain
-langchain-google-genai
 langgraph
 wikipedia
 elevenlabs
@@ -15,5 +13,7 @@ groq
 gtts
 pygame
 google-generativeai
-langchain-core
+langchain==0.2.14
+langchain-core==0.2.26
+langchain-google-genai==1.0.5
 
