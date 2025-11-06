@@ -1,4 +1,4 @@
-Dora AI Assistant
+**Dora AI Assistant**
 
 A personal AI assistant with voice interaction, vision capabilities, and multi-modal support. It can answer questions, describe what it sees, interact via chat, and integrate with multiple AI services like ElevenLabs, Google Generative AI, and LangChain.
 
@@ -27,3 +27,4 @@ Vision: OpenCV
 Frontend / Interface: Gradio
 
 Deployment: Replit / Railway / Render
+
