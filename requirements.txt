@@ -13,4 +13,6 @@ uvicorn
 requests
 groq
 gtts
+pygame
+google-generativeai
 
