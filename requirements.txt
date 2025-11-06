@@ -1,0 +1,13 @@
+gradio
+opencv-python
+python-dotenv
+speechrecognition
+pydub
+langchain
+langchain-google-genai
+langgraph
+wikipedia
+elevenlabs
+fastapi
+uvicorn
+requests
